@@ -1,8 +1,8 @@
 ## Hi, I'm Chris
 
-- I'm an Independent Web Developer, currently building [Snippets for Art](snippets-js.vercel.app) 
+- I'm an Independent Web Developer, currently building [Snippets for Art](https://snippets-js.vercel.app) 
 - _I'm currently open for work_
-- Find more of my work [here](chrismccully.com)
+- Find more of my work [here](https://chrismccully.com)
 - I'm a full-stack developer specializing in front-end development, procedural design, and graphics programming.
 
 ### My Stack:
