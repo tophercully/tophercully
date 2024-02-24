@@ -11,6 +11,8 @@
 - React
 - CSS
 - HTML5
+- SQL
+- Postgres
 - GraphQL
 - C++
 - Node.js
