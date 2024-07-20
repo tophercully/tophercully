@@ -1,6 +1,6 @@
 ## Hi, I'm Chris
 
-- I'm an Independent Web Developer, currently building [Snippets for Art](https://snippets-js.vercel.app) 
+- I'm an Independent Web Developer, currently building [Snipp.io](https://snippp.io) 
 - _I'm currently open for work_
 - Find more of my work [here](https://chrismccully.com)
 - I'm a full-stack developer specializing in front-end development, procedural design, and graphics programming.
@@ -12,6 +12,7 @@
 - CSS
 - HTML5
 - SQL
+- Next.js
 - Postgres
 - GraphQL
 - C++
@@ -19,4 +20,5 @@
 - Git
 - p5.js
 - three.js
+- SVG
 - OpenGL
