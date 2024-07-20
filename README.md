@@ -1,6 +1,6 @@
 ## Hi, I'm Chris
 
-- I'm an Independent Web Developer, currently building [Snipp.io](https://snippp.io) 
+- I'm an Independent Web Developer, currently building [Snipp.io](https://snippp.io) (in beta)
 - _I'm currently open for work_
 - Find more of my work [here](https://chrismccully.com)
 - I'm a full-stack developer specializing in front-end development, procedural design, and graphics programming.
