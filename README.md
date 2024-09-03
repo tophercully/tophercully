@@ -1,6 +1,6 @@
 ## Hi, I'm Chris
 
-- I'm a Web Developer, currently building [Snippp.io](https://snippp.io) (in beta) and [RebelMint](https://github.com/RebelMint/Rebelmint)
+- I'm a Web Developer, currently building [Snippp.io](https://snippp.io) (in beta) and a bunch of other tools for developers, graphics programmers, and more.
 - Find more of my work [here](https://chrismccully.com)
 - I'm a full-stack developer specializing in front-end development, procedural design, and graphics programming.
 
